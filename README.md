@@ -48,7 +48,7 @@ Install using the **Library Manager**:
 
 ```
 #define WIFI_SSID "YOUR_WIFI"
-#define WIFI_PASSWORD "YOUR_SENHA"
+#define WIFI_PASSWORD "YOUR_PASSWORD"
 
 #define APP_KEY "YOUR_APP_KEY"
 #define APP_SECRET "YOUR_APP_SECRET"
